@@ -42,7 +42,7 @@ March 3 (Thursday)
 March 8 (Tuesday)  
 March 10 (Thursday)  
 
-## Week 8
+## Week 8: SPRING BREAK
 
 March 15 (Tuesday)  
 March 17 (Thursday)  
@@ -65,7 +65,7 @@ April 7 (Thursday)
 ## Week 12
 
 April 12 (Tuesday)  
-April 14 (Thursday)  
+April 14 (Thursday) **No Class** 
 
 ## Week 13
 
