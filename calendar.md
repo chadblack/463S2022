@@ -9,48 +9,48 @@ layout: page
 
 ## Week 1 
 
-January 25 (Tuesday)
-January 27 (Thursday)
+January 25 (Tuesday)  
+January 27 (Thursday)  
 
 ## Week 2 
 
-February 1 (Tuesday)
-February 3 (Thursday)
+February 1 (Tuesday)  
+February 3 (Thursday)  
 
 ## Week 3 
 
-February 8 (Tuesday)
-February 10 (Thursday)
+February 8 (Tuesday)  
+February 10 (Thursday)  
 
 ## Week 4 
 
-February 15 (Tuesday)
-February 17 (Thursday)
+February 15 (Tuesday)  
+February 17 (Thursday)  
 
 ## Week 5 
 
-February 22 (Tuesday)
-February 24 (Thursday)
+February 22 (Tuesday)  
+February 24 (Thursday)  
 
 ## Week 6 
 
-March 1 (Tuesday)
-March 3 (Thursday)
+March 1 (Tuesday)  
+March 3 (Thursday)  
 
 ## Week 7
 
-March 8 (Tuesday)
-March 10 (Thursday)
+March 8 (Tuesday)  
+March 10 (Thursday)  
 
 ## Week 8
 
-March 15 (Tuesday)
-March 17 (Thursday)
+March 15 (Tuesday)  
+March 17 (Thursday)  
 
 ## Week 9
 
-March 22 (Tuesday)
-March 24 (Thursday)
+March 22 (Tuesday)  
+March 24 (Thursday)  
 
 ## Week 10
 
