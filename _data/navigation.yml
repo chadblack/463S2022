@@ -1,11 +1,11 @@
 # Sample site navigation bar links
 
-- title: 2021 HILA 465 
+- title: 2022 HILA 463 
   url: /
 - title: posts
   url: /posts/
-- title: syllabus
-  url: /syllabus/
+- title: legalese
+  url: /legalese/
 - title: calendar
   url: /calendar/
 - title: assignments
