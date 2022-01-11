@@ -3,8 +3,39 @@ title: syllabus
 layout: page
 ---
 
-# policies
+**HILA 463: The Spanish Inquisition**  
+Spring 2022  
 
+**Prof. Chad Black**  
+**Email:** cblack6@utk.edu  
+**Phone:** 974-9871  
+**Office:** 2627 Dunford Hall, 6th Floor  
+**Office Hours:** Tuesday 2:00-4:00, or by appointment
+
+1. toc
+{:toc}
+
+# About
+
+The Spanish Inquisition lives on in the popular imagination more than five
+hundred years after it was established in 1478. Monty Python taught us no
+one expected it. Mel Brooks turned it into a song. This dark humor worked
+to de-fang an institution associated with the worst impulses of religious
+intolerance and persecution. This course will look at the long history of
+the Spanish Inquisition on the Iberian peninsula and in the Americas to go
+beyond secret trails, torture, and autos-da-fe to understand why the
+Inquisition was established, its institutional role was in Spanish rule,
+and its legacies for the modern world. 
+
+# course objectives
+
+1. To introduce students to the forces, events, and conflicts that defined the
+   establishment and operation of the Spanish Inquisition.  
+2. To understand and use a variety of sources that provide the core of historical inquiry.  
+3. To learn and improve skills in reading, synthesizing, and writing about
+   historical scholarship.
+
+# policies
 
 ![](http://chadblack.net/511S2012/media/images/disability.png) Qualified
 students with disabilities needing appropriate academic adjustments should
