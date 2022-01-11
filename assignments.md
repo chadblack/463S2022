@@ -3,41 +3,60 @@ title: assignments
 layout: page
 ---
 
-# Final Paper Project (40%)
+1. stuff
+{:toc}
 
-This is a project in 3 parts. Students will choose from a list of topics on
-gender and sexuality in early Latin America and write a 8-10 page
-**historiography** paper on their chosen topic. A **historiography** focuses on
-the methods, theories, arguments, and evidence that historians have deployed in
-approaching a topic. This is a different approach to a paper than making your
-own narration of the topic. The key phrase here, which you will become
-accustomed to in other assignments, is "[Historian] argues that... "
+# required readings
 
-Part One: Choosing a topic and making a preliminary bibliography. **Due
-September 28th.** Your preliminary bibliography should consist of 8 academic
-articles and monographs on your topic. 10 points.
+There are four books required for purchase for this semester:
 
-Part Two: Chose four sources from your bibliography and write research memos on
-those sources. **Due October 22nd.** 20 points.
+1. Chuchiak, John F., editor. *The Inquisition in New Spain, 1536-1820:
+   A Documentary History*. Johns Hopkins University Press, 2012.
 
-Part Three: Your full paper. For further instructions, see [here](). **Due:
-November 23rd.** 70 points.
+1. Homza, Lu Ann. *The Spanish Inquisition, 1478-1614: An Anthology of
+   Sources*. Hackett Publishing, 2006.
+
+3. Martínez, María Elena. *Genealogical Fictions: Limpieza de Sangre, Religion,
+   and Gender in Colonial Mexico*. Stanford University Press, 2011.
+
+3. Rawlings, Helen. *The Spanish Inquisition*. Wiley-Blackwell, 2005.
 
 
-# Weekly assignments (40%)
+Other readings will be available via the library website or on Canvas.
 
-Most weeks, students will write a research memo or a reaction paper from the
-week's readings. Due on Fridays.
 
-# Self-evaluation on participation (20%)
+# assignments
 
-Students will write a self-evaluation of their work and participation over the
-semester. Explain how your skills and mastery of the material has developed,
-and what you found most rewarding and most challenging from the course.
-Make a list of each class you did not attend, and explain why you were absent.
-Refer to [this
-rubric](http://chadblack.net/465F2021/images/Self-Evaluation.docx) for your evaluation. Give yourself a grade.
+1. **Reading Memos** (30%)
+   
+   Most weeks, students will write a research memo or a reaction paper from the
+   week's readings. Due on Fridays. Instructions for how to write a research memo
+   are available [here](http://chadblack.net/LatAmSport2019/memo/).
 
-**Due: December 7th.**
+2. **Book Review** (20%)
+   
+   Each student will write a formal review paper of a book of their choosing.
+   The book must be an academic monograph on any aspect of the Spanish
+   Inquisition in Iberia, Naples, or the Americas. If you'd like, the
+   Portuguese or Brazilian Inquisitions will count here too. 
+
+3. **Midterm and Final Exams** (40%)
+   
+   There will be two in class exams consisting of short answer and
+   essay questions. You may bring printed copies of your reading
+   memos to aid in your exams.
+
+4. **Self-evaluation on participation** (10%)
+   
+   Note: Most Thursdays, we will be reading and analyzing cases to
+   understand what Inquisition sources offer the modern historian.
+   Your participation in those discussions will play a significant part of
+   determining this part of your grade.
+
+   Students will write a self-evaluation of their work and participation over the
+   semester. Explain how your skills and mastery of the material has developed,
+   and what you found most rewarding and most challenging from the course.
+   Make a list of each class you did not attend, and explain why you were absent.Refer to [this rubric]() for your evaluation. Give yourself a grade.
+
 
 
