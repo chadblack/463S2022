@@ -7,82 +7,217 @@ layout: page
 {:toc}
 
 
-## Week 1 
+## Week 1: Introduction
 
-January 25 (Tuesday)  
-January 27 (Thursday)  
+Welcome to the Inquisition. We begin this week thinking about origins,
+precedents, and the world of the 1470s.
 
-## Week 2 
+January 25 (Tuesday) Introducing the Course.   
 
-February 1 (Tuesday)  
-February 3 (Thursday)  
+READ:  
+* [The Syllabus]()
 
-## Week 3 
+January 27 (Thursday) History of the History of the Inquisition.  
 
-February 8 (Tuesday)  
+READ:  
+* Helen Rawlings, *The Spanish Inquisition*, pp. 1-20.
+
+**DUE:** 
+
+Define historiography and explain why it is important to practicing historians.
+What do you think drives changing approaches to historical problems over time?
+
+
+## Week 2: Establishment and Procedure
+
+The Inquisition was bound by an extensive set of rules and procedures that
+were related to other forms of legal action and jurisdiction in the Spanish
+tradition. This week, we look at founding documents and procedures.
+
+February 1 (Tuesday) Establishment.
+
+READ:
+
+* Rawlings, pp. 21-46.
+
+February 3 (Thursday) Procedure.
+
+READ:
+
+* Homza, pp. 1-12.
+* Chuchiak, pp. 59-81.
+
+**DUE:** 
+
+What are the implications of Inquisitorial procedures for establishing and
+finding "truth"?
+
+## Week 3: The "Judiazing Heresy"
+
+February 8 (Tuesday) The Converso.
+
+READ:
+
+* Rawlings, pp. 47-71.
+
 February 10 (Thursday)  
 
-## Week 4 
+READ:
 
-February 15 (Tuesday)  
-February 17 (Thursday)  
+* Homza, pp. 27-49.
 
-## Week 5 
+**DUE:** 
 
-February 22 (Tuesday)  
-February 24 (Thursday)  
+* Write a research précis on Rawlings. Write summary findings of the cases
+  from Homza.
 
-## Week 6 
+## Week 4: The Reformation and the Counter-Reformation 
 
-March 1 (Tuesday)  
-March 3 (Thursday)  
+February 15 (Tuesday) Protestants and Alumbradas
 
-## Week 7
+READ:
 
-March 8 (Tuesday)  
-March 10 (Thursday)  
+* Rawlings, 
+
+February 17 (Thursday) Evolving Mission 
+
+READ:
+
+* Homza, pp. 80-92, 176-194.
+
+**DUE:** 
+
+## Week 5: Sex and Gender
+
+February 22 (Tuesday) When Sex is Blasphemous
+
+READ:
+
+February 24 (Thursday) Sodomy?
+
+READ:
+
+**DUE:** 
+
+## Week 6: Spanish Witchcraft
+
+March 1 (Tuesday) When Witches Were Real 
+
+READ:
+
+March 3 (Thursday) Why Was Spain Different?
+
+READ:
+
+**DUE:** 
+
+## Week 7: Midterm Exam
+
+March 8 (Tuesday) No class 
+
+READ:
+
+March 10 (Thursday) No class
+
+READ:
+
+**DUE:** 
+
+MIDTERM EXAM ESSAY DUE.
 
 ## Week 8: SPRING BREAK
 
 March 15 (Tuesday)  
+
+READ:
+
 March 17 (Thursday)  
 
-## Week 9
+## Week 9: Coming to America
 
 March 22 (Tuesday)  
+
+READ:
+
 March 24 (Thursday)  
 
-## Week 10
+READ:
+
+**DUE:** 
+
+## Week 10: Blasphemies
 
 March 29 (Tuesday)  
+
+READ:
+
 March 31 (Thursday)  
 
-## Week 11
+READ:
+
+**DUE:** 
+
+## Week 11: Sorcery, Witchcraft, and Magic 
 
 April 5 (Tuesday)  
+
+READ:
+
 April 7 (Thursday)  
 
-## Week 12
+READ:
+
+**DUE:** 
+
+## Week 12: Limpieza, Identity, Race
 
 April 12 (Tuesday)  
+
+READ:
+
 April 14 (Thursday) **No Class** 
 
-## Week 13
+READ:
+
+**DUE:** 
+
+## Week 13: Sex and Inquisition in the Indies
 
 April 19 (Tuesday)  
+
+READ:
+
 April 21 (Thursday)  
 
-## Week 14
+READ:
+
+**DUE:** 
+
+## Week 14: The Censors
 
 April 26 (Tuesday)  
+
+READ:
+
 April 28 (Thursday)  
 
-## Week 15
+READ:
+
+**DUE:** 
+
+## Week 15: Goya's Ghost
 
 May 3 (Tuesday)  
+
+READ:
+
 May 5 (Thursday)  
 
-## Week 16 -- Wrap it up
+READ:
+
+**DUE:** 
+
+## Week 16 -- The Death and Afterlife of the Inquisition
 
 May 10 (Tuesday)  
 
