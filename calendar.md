@@ -54,17 +54,20 @@ finding "truth"?
 
 ## Week 3: The "Judiazing Heresy"
 
+
+
 February 8 (Tuesday) The Converso.
 
 READ:
 
 * Rawlings, pp. 47-71.
 
-February 10 (Thursday)  
+February 10 (Thursday) 
 
 READ:
 
-* Homza, pp. 27-49.
+* Homza, pp. 27-49; 238-248.
+
 
 **DUE:** 
 
@@ -77,7 +80,7 @@ February 15 (Tuesday) Protestants and Alumbradas
 
 READ:
 
-* Rawlings, 
+* Rawlings, 90-113.
 
 February 17 (Thursday) Evolving Mission 
 
@@ -93,9 +96,15 @@ February 22 (Tuesday) When Sex is Blasphemous
 
 READ:
 
-February 24 (Thursday) Sodomy?
+* Rawlings, pp 114-134.
+* Allyson Poska, "When Bigamy is the Charge: Gallegan Women and the Holy
+  Office," pp. 189-208 in Giles (1999).
+
+February 24 (Thursday) Sex and Jurisdiction
 
 READ:
+
+* Homza 103-108.
 
 **DUE:** 
 
@@ -105,21 +114,24 @@ March 1 (Tuesday) When Witches Were Real
 
 READ:
 
+* Monter, *Frontiers of Heresy*, Chapter 12.
+
 March 3 (Thursday) Why Was Spain Different?
 
 READ:
 
+* Silvia Federici, *Calaban and the Witch*, "The Great Witch-Hunt in Europe."  
+* Homza, 153-164.
+
 **DUE:** 
+
+* Research memo on Monter.
 
 ## Week 7: Midterm Exam
 
 March 8 (Tuesday) No class 
 
-READ:
-
 March 10 (Thursday) No class
-
-READ:
 
 **DUE:** 
 
@@ -127,35 +139,47 @@ MIDTERM EXAM ESSAY DUE.
 
 ## Week 8: SPRING BREAK
 
-March 15 (Tuesday)  
+March 15 (Tuesday) Relaxation.
 
-READ:
-
-March 17 (Thursday)  
+March 17 (Thursday) Enjoyment.
 
 ## Week 9: Coming to America
 
-March 22 (Tuesday)  
+March 22 (Tuesday) The Inquisition in the Indies
 
 READ:
+
+* Chuchiak, 107-185.
 
 March 24 (Thursday)  
 
 READ:
 
+* Chuchiak, 107-185. 
+
 **DUE:** 
+
+* How was the Inquisition different in New Spain than in Old Spain?
 
 ## Week 10: Blasphemies
 
 March 29 (Tuesday)  
 
+READ: Cryptojews and others in the New World
+
+* Miriam Bodian, *Dying in the Law of Moses*, Chapter 5.  
+* Kathryn Joy McKnight, "Blasphemy as Resistance: An African Slave Woman before
+  the Mexican Inquisition," pp. 229-254 in Giles (1999).
+
+March 31 (Thursday) Trials
+
 READ:
 
-March 31 (Thursday)  
-
-READ:
+* Chuchiak, pp. 205-217, 235-291.
 
 **DUE:** 
+
+* Research memos on Bodian and McKnight.
 
 ## Week 11: Sorcery, Witchcraft, and Magic 
 
@@ -163,17 +187,24 @@ April 5 (Tuesday)
 
 READ:
 
+* Behar, Ruth. “Sexual Witchcraft, Colonialism, and Women’s Powers: Views from
+  the Mexican Inquisition.” In Sexuality and Marriage in Colonial Latin
+  America, ed. Asunción Lavrin. Lincoln: Univ. of Nebraska Press, 1992
+  (178-206).
+
 April 7 (Thursday)  
 
 READ:
+
+* Chuchiak, 292-307.  
 
 **DUE:** 
 
 ## Week 12: Limpieza, Identity, Race
 
-April 12 (Tuesday)  
+April 12 (Tuesday) Castas and Identity in the Americas
 
-READ:
+READ: Genealogical Fictions.
 
 April 14 (Thursday) **No Class** 
 
@@ -181,17 +212,35 @@ READ:
 
 **DUE:** 
 
+* Book review of *Genealogical Fictions*.
+
 ## Week 13: Sex and Inquisition in the Indies
 
-April 19 (Tuesday)  
+April 19 (Tuesday) Clerics and Desire
 
 READ:
+
+* Nicole von Germeten, "Archival Narratives of Clerical Sodomy and Suicide from
+  Eighteenth-Century Cartagena," pp. 23-34 in Tortorici, ed., *Sexuality and the
+  Unnatural in Colonial Latin America* (Berkeley: UC Press, 2016).
+
+* Zeb Tortorici, "Archives of Negligence," pp. 161-196 in *Sin Against Nature*
+  (Durham: Duke University Press, 2018).
+
 
 April 21 (Thursday)  
 
 READ:
 
+* Holler, Jacqueline. “The Spiritual and Physical Ecstasies of
+  a Sixteenth-Century Beata: Marina de San Miguel Confesses Before the Mexican
+  Inquisition.” In Colonial Lives, Documents on Latin American History,
+  1550-1850, ed. Richard Boyer and Geoffrey Spurling. New York: Oxford Univ.
+  Press, 2000 (77-100).
+
 **DUE:** 
+
+* Reaction paper comparing the arguments in Tortorici and von Germeten.
 
 ## Week 14: The Censors
 
@@ -199,28 +248,41 @@ April 26 (Tuesday)
 
 READ:
 
+* Martin Nesvig, "The Index of Prohibited Books in Sixteenth Century Mexico:
+Theological Conservatism and Adaptive Responses to Censorship," *Journal of
+Religious and Theological Information* 10:3-4 (2011): pp. 103-124.
+
+* Richard Greenleaf, "The Mexican Inquisition and the Enlightenment,
+1763-1805," *New Mexico Historical Review* 41.3 (1966): 181-
+
+
 April 28 (Thursday)  
 
 READ:
 
+* Chichiak, pp. 318-342.
+
 **DUE:** 
+
+* Research memo on Nesvig.
 
 ## Week 15: Goya's Ghost
 
-May 3 (Tuesday)  
+May 3 (Tuesday) No class.
+
+May 5 (Thursday) No class.
 
 READ:
 
-May 5 (Thursday)  
-
-READ:
+* Rawlings, 135-156.
 
 **DUE:** 
 
+Response paper to the film.
+
 ## Week 16 -- The Death and Afterlife of the Inquisition
 
-May 10 (Tuesday)  
-
+May 10 (Tuesday) Wrap it up.
 
 
 **Final self-evaluation due December 7th.**
