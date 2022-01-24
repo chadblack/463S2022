@@ -285,4 +285,4 @@ Response paper to the film.
 May 10 (Tuesday) Wrap it up.
 
 
-**Final self-evaluation due December 7th.**
+**DUE:** Self-Evaluation and Final Essay.
