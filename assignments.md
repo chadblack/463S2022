@@ -33,20 +33,15 @@ Other readings will be available via the library website or on Canvas.
    week's readings. Due on Fridays. Instructions for how to write a research memo
    are available [here](http://chadblack.net/LatAmSport2019/memo/).
 
-2. **Book Review** (20%)
-   
-   Each student will write a formal review paper of a book of their choosing.
-   The book must be an academic monograph on any aspect of the Spanish
-   Inquisition in Iberia, Naples, or the Americas. If you'd like, the
-   Portuguese or Brazilian Inquisitions will count here too. 
+2. **Book Review** (25%)
 
-3. **Midterm and Final Exams** (40%)
+    Each student will write a formal book review of María Elena Martinez,
+    *Genealogical Fictions: Limpieza de Sangre, Religion, and Gender in
+    Colonial Mexico*. Stanford University Press, 2011.
    
-   There will be two in class exams consisting of short answer and
-   essay questions. You may bring printed copies of your reading
-   memos to aid in your exams.
-
-4. **Self-evaluation on participation** (10%)
+3. **Midterm and Final Exams** (30%)
+   
+4. **Self-evaluation on participation** (15%)
    
    Note: Most Thursdays, we will be reading and analyzing cases to
    understand what Inquisition sources offer the modern historian.
