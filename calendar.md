@@ -88,7 +88,7 @@ READ:
 
 * Homza, pp. 80-92, 176-194.
 
-**DUE:** 
+**DUE:** Précis on Homza OR comparison of alumbradismo and luteranismo
 
 ## Week 5: Sex and Gender
 
@@ -106,7 +106,7 @@ READ:
 
 * Homza 103-108.
 
-**DUE:** 
+**DUE:** Reaction paper to Poska.
 
 ## Week 6: Spanish Witchcraft
 
