@@ -88,7 +88,7 @@ READ:
 
 * Homza, pp. 80-92, 176-194.
 
-**DUE:** Précis on Homza OR comparison of alumbradismo and luteranismo
+**DUE:** Précis on Rawlings OR comparison of alumbradismo and luteranismo
 
 ## Week 5: Sex and Gender
 
