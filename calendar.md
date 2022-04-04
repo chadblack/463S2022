@@ -196,7 +196,8 @@ April 7 (Thursday)
 
 READ:
 
-* Chuchiak, 292-307.  
+* Chuchiak, 292-307.  Section III -- the two sets on the trials and cases on superstition,
+  witchcraft, peyote, plants, etc.
 
 **DUE:** 
 
