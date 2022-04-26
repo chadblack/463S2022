@@ -265,7 +265,7 @@ READ:
 
 **DUE:** 
 
-* Research memo on Nesvig.
+* Nothing!
 
 ## Week 15: Goya's Ghost
 
@@ -286,4 +286,4 @@ Response paper to the film.
 May 10 (Tuesday) Wrap it up.
 
 
-**DUE:** Self-Evaluation and Final Essay.
+**DUE:** Self-Evaluation.
